@@ -1,8 +1,7 @@
-
 .light-bg {
     min-width: 225px !important;
-    
-  }
-  ::-webkit-scrollbar {
+}
+
+ ::-webkit-scrollbar {
     width: 10px;
-  }
+}
